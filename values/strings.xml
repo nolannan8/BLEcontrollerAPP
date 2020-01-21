@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Avnan HRV Controller</string>
+    <string name="button_label_scan">Start Scanning</string>
+    <string name="label_scanning">Scanning…</string>
+    <string name="label_device_details">Device Details</string>
+    <string name="label_device_name">Device Name:</string>
+    <string name="label_device_address">Device Address:</string>
+    <string name="button_label_connect">Connect</string>
+    <string name="label_device_status">Device Status:</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="unknown">Unknown</string>
+    <string name="button_label_disconnect">Disconnect</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="radio_label_twenty">20 Minutes</string>
+    <string name="radio_label_forty">40 Minutes</string>
+    <string name="radio_label_sixty">60 Minutes</string>
+    <string name="button_label_send">Send</string>
+    <string name="button_label_cancel">Cancel</string>
+    <string name="twenty">20:00</string>
+    <string name="forty">40:00</string>
+    <string name="sixty">60:00</string>
+    <string name="connecting">Connecting…</string>
+    <string name="disconnecting">Disconnecting…</string>
+    <string name="incompatible_ble_device">The device you are connecting to does not support remote HRV control</string>
+    <string name="connecting_to">Connecting to</string>
+    <string name="connected_to">Connected to&#032;</string>
+    <string name="disconnected_from">Disconnected from&#032;</string>
+    <string name="text_timer_blank">00:00</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="scan">Scan</string>
+</resources>
